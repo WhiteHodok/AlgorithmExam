@@ -200,7 +200,22 @@ int main() {
 - https://metanit.com/cpp/tutorial/2.13.php 
 - https://www.youtube.com/watch?v=Fh3huPx-kPI
 
-## ССылки :
-- https://metanit.com/cpp/tutorial/2.14.php
+## Ссылки и указатели :
+- https://metanit.com/cpp/tutorial/2.14.php - ссылки
+- https://metanit.com/cpp/tutorial/4.1.php - указатели
+
+## Массивы : 
+- https://metanit.com/cpp/tutorial/2.15.php 
+- https://metanit.com/cpp/tutorial/2.18.php
+- https://metanit.com/cpp/tutorial/2.19.php
+- https://metanit.com/cpp/tutorial/2.16.php
+- https://www.youtube.com/watch?v=miIbncBEn9c
+
+## Функции :
+- https://metanit.com/cpp/tutorial/3.1.php
+
+## ООП :
+- https://metanit.com/cpp/tutorial/5.1.php
+
 
 
