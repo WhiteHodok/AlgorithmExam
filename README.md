@@ -11,6 +11,9 @@
 
 - Алгоритмом называется набор инструкций для выполнения некоторой задачи.
 - Бинарный поиск и что это такое рассказывается на странице номер 20.
+
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/0507b6f5-4f29-4029-ab94-8860a57cecc6)
+
 - Что такое О(n) ?
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/238ed361-f63d-4e2d-bf89-b566375dcd4a)
 
@@ -21,7 +24,22 @@
 
 - Задача о Коммивояжере на странице 37.
 - Сортировка выбором представлена на 40 странице.
-- Как работает память :
+- Шпаргалка :
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/e6a0332d-9758-4918-b270-f9d8a25b719b)
+
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/e8ee28ba-adfa-4f3d-aa52-0383ca6155dd)
+
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/10137b2d-b329-436e-8e5b-e7d4ad368554)
+
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/dc20c968-3534-48e8-811c-fae69ae4b033)
+
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/573fada2-4be9-41c8-bb3d-5c799084e133)
+
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/94767eb6-1821-4e70-b27d-17c518abdce6)
+
+
+
+## Как работает память
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/06201caf-8d0e-4c72-b5c0-181eb8e0f4ea)
 
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/6f6bd35a-7e51-4847-be2a-34bf1a238961)
