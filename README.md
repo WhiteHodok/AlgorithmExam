@@ -123,4 +123,67 @@ for (int i = 0; i < sizeof(array) / sizeof(int); ++i) {
 std::cout << std::endl;
 ```
 
+## Размеры типов данных
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/8941e6d5-0e59-4ab9-aa2d-7d019aa5a1c1)
+
+## Ввод и вывод в консоли
+- https://metanit.com/cpp/tutorial/2.10.php
+
+## Арифметические операции в C++ 
+- https://metanit.com/cpp/tutorial/2.6.php
+
+Code : 
+
+```sh
+#include <iostream>
+
+int main() {
+    int a = 10;
+    int b = 5;
+
+    // Сложение
+    int sum = a + b;
+    std::cout << "Сумма: " << sum << std::endl;
+
+    // Вычитание
+    int difference = a - b;
+    std::cout << "Разность: " << difference << std::endl;
+
+    // Умножение
+    int product = a * b;
+    std::cout << "Произведение: " << product << std::endl;
+
+    // Деление
+    int quotient = a / b;
+    std::cout << "Частное: " << quotient << std::endl;
+
+    // Остаток от деления
+    int remainder = a % b;
+    std::cout << "Остаток от деления: " << remainder << std::endl;
+
+    // Инкремент
+    int c = 7;
+    c++;
+    std::cout << "Инкремент: " << c << std::endl;
+
+    // Декремент
+    int d = 3;
+    d--;
+    std::cout << "Декремент: " << d << std::endl;
+
+    return 0;
+}
+```
+
+Вывод в консоли:
+
+```sh
+Сумма: 15
+Разность: 5
+Произведение: 50
+Частное: 2
+Остаток от деления: 0
+Инкремент: 8
+Декремент: 2
+```
 
