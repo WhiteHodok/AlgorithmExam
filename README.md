@@ -187,3 +187,20 @@ int main() {
 Декремент: 2
 ```
 
+## Некоторые примеры неявных преобразований в коде :
+- https://metanit.com/cpp/tutorial/2.4.php
+
+## Операции присваивания :
+- https://metanit.com/cpp/tutorial/2.9.php
+
+## Тернарные операторы :
+- https://metanit.com/cpp/tutorial/2.12.php
+
+## Циклы :
+- https://metanit.com/cpp/tutorial/2.13.php 
+- https://www.youtube.com/watch?v=Fh3huPx-kPI
+
+## ССылки :
+- https://metanit.com/cpp/tutorial/2.14.php
+
+
