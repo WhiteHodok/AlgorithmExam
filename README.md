@@ -62,3 +62,15 @@
 
 - https://metanit.com/cpp/tutorial/2.2.php
 
+В C++ существует несколько основных типов переменных. Вот некоторые из них с примерами вывода :
+
+- Целочисленные типы (Integer types):
+
+```sh
+int integer = 10;
+std::cout << "Integer: " << integer << std::endl;
+
+long long bigInteger = 123456789012345LL;
+std::cout << "Big Integer: " << bigInteger << std::endl;
+```
+
