@@ -68,9 +68,59 @@
 
 ```sh
 int integer = 10;
-std::cout << "Integer: " << integer << std::endl;
+std::cout << "Integer:" << integer << std::endl;
 
 long long bigInteger = 123456789012345LL;
 std::cout << "Big Integer: " << bigInteger << std::endl;
 ```
+
+- Вещественные типы (Floating-point types):
+
+```sh
+float floatingPoint = 3.14f;
+std::cout << "Floating Point: " << floatingPoint << std::endl;
+
+double doublePrecision = 2.71828;
+std::cout << "Double Precision: " << doublePrecision << std::endl;
+```
+
+- Символьный тип (Character type):
+
+```sh
+char character = 'A';
+std::cout << "Character: " << character << std::endl;
+```
+
+- Строковый тип (String type):
+
+```sh
+std::string string = "Hello, World!";
+std::cout << "String: " << string << std::endl;
+```
+
+- Логический тип (Boolean type):
+
+```sh
+bool boolean = true;
+std::cout << "Boolean: " << std::boolalpha << boolean << std::endl;
+```
+
+- Указатель (Pointer type):
+
+```sh
+int* pointer = nullptr;
+std::cout << "Pointer: " << pointer << std::endl;
+```
+
+- Массив (Array type):
+
+```sh
+int array[] = {1, 2, 3, 4, 5};
+std::cout << "Array: ";
+for (int i = 0; i < sizeof(array) / sizeof(int); ++i) {
+    std::cout << array[i] << " ";
+}
+std::cout << std::endl;
+```
+
 
