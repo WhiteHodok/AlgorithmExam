@@ -54,7 +54,11 @@
 - https://metanit.com/cpp/tutorial/2.1.php
 
 
-## Как выглядит комипиляция на языке C++ 
+## Как выглядит компиляция на языке C++ 
 
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/df3856ae-6f88-42ee-939c-1910fba7de23)
+
+## Переменные 
+
+- https://metanit.com/cpp/tutorial/2.2.php
 
