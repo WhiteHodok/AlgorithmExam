@@ -160,6 +160,10 @@ std::cout << std::endl;
 
 ## Арифметические операции в C++ 
 - https://metanit.com/cpp/tutorial/2.6.php
+- https://stepik.org/lesson/536/step/5?unit=859
+
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/30b75033-1e05-4aa5-a4c8-e186a30f1910)
+
 
 Code : 
 
