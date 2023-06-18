@@ -66,6 +66,10 @@
 ## Как подключить заголовочные файлы
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/d5469a9d-5959-4943-8ebb-e17d7282c092)
 
+## Макросы и зачем они нужны
+- https://stepik.org/lesson/534/step/7?unit=857
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/118f2abc-6e5b-4fea-9c83-70d748567f75)
+
 
 ## Как выглядит компиляция на языке C++ 
 
