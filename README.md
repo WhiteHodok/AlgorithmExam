@@ -59,6 +59,9 @@
 
 - https://metanit.com/cpp/tutorial/2.1.php
 
+## Зачем нужны заголовочные файлы
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/7afd40ed-12a0-469d-b50f-d7c29bfa47f1)
+
 
 ## Как выглядит компиляция на языке C++ 
 
