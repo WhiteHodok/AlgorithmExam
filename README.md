@@ -65,11 +65,12 @@
 
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/d3892b3b-b497-47a0-a2c4-0e4ab3259b5f)
 
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/15c3d7b9-0351-4780-80fd-f27c902e67a9)
 
 ## Как подключить заголовочные файлы
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/d5469a9d-5959-4943-8ebb-e17d7282c092)
 
-![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/15c3d7b9-0351-4780-80fd-f27c902e67a9)
+
 
 
 ## Макросы и зачем они нужны
