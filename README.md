@@ -83,6 +83,8 @@
 
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/df3856ae-6f88-42ee-939c-1910fba7de23)
 
+- https://stepik.org/lesson/535/step/6?unit=858
+
 ## Переменные 
 
 - https://metanit.com/cpp/tutorial/2.2.php
