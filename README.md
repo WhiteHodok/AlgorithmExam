@@ -95,6 +95,9 @@
 
 - Целочисленные типы (Integer types):
 
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/30315909-c91e-491c-8489-41a93f4ea11e)
+
+
 ```sh
 int integer = 10;
 std::cout << "Integer:" << integer << std::endl;
