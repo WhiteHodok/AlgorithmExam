@@ -63,12 +63,16 @@
 - также тут отмечено чем отличается объявление функции от её определения
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/7afd40ed-12a0-469d-b50f-d7c29bfa47f1)
 
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/d3892b3b-b497-47a0-a2c4-0e4ab3259b5f)
+
+
 ## Как подключить заголовочные файлы
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/d5469a9d-5959-4943-8ebb-e17d7282c092)
 
 ## Макросы и зачем они нужны
 - https://stepik.org/lesson/534/step/7?unit=857
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/118f2abc-6e5b-4fea-9c83-70d748567f75)
+
 
 
 ## Как выглядит компиляция на языке C++ 
