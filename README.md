@@ -155,6 +155,9 @@ for (int i = 0; i < sizeof(array) / sizeof(int); ++i) {
 std::cout << std::endl;
 ```
 
+## Преобразование встроенных типов в операторах
+- https://stepik.org/lesson/536/step/7?unit=859
+
 ## Размеры типов данных
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/8941e6d5-0e59-4ab9-aa2d-7d019aa5a1c1)
 
