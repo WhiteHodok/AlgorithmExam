@@ -244,6 +244,12 @@ int main() {
 - https://metanit.com/cpp/tutorial/4.1.php - указатели
 
 ## Массивы : 
+
+# Видево
+- https://www.youtube.com/watch?v=GJFqT6Kz9NE
+- https://www.youtube.com/watch?v=7q-SbRdW_24
+
+# Текст
 - https://metanit.com/cpp/tutorial/2.15.php 
 - https://metanit.com/cpp/tutorial/2.18.php
 - https://metanit.com/cpp/tutorial/2.19.php
