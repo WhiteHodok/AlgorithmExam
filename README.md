@@ -85,6 +85,8 @@
 
 - https://stepik.org/lesson/535/step/6?unit=858
 
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/574e7c19-1e8f-43be-8d87-51a84a560b90)
+
 ## Переменные 
 
 - https://metanit.com/cpp/tutorial/2.2.php
