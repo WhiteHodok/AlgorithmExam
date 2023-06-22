@@ -262,5 +262,8 @@ int main() {
 ## ООП :
 - https://metanit.com/cpp/tutorial/5.1.php
 
+## Динамические массивы :
 
+
+https://www.youtube.com/watch?v=fk4YTLsnKmw
 
