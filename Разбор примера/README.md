@@ -89,7 +89,7 @@ void deleteMatrix(int**& matrix, int size) {
 \```
 
 4. Основная программа :
-\```cpp
+\```sh
 int main() {
     int size;
     int n;
