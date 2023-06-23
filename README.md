@@ -11,7 +11,7 @@
 
 Здесь я приложу замечательную книжку "Грокаем алгоритмы" Адитьи Бхаргвы , прочитав даже 100 страниц можно понять весь материал лекций за семестр , даже не напрягаясь :
 
-- https://drive.google.com/file/d/1uPSfAtQZlVUUfidYnqKSxpfyFpu0KXgU/view?usp=sharing
+- https://drive.google.com/file/d/1uPSfAtQZlVUUfidYnqKSxpfyFpu0KXgU/view?usp=cpparing
 
 Очень краткий конспект-шпаргалка для экзамена :
 
@@ -98,7 +98,7 @@
 ![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/30315909-c91e-491c-8489-41a93f4ea11e)
 
 
-```sh
+```cpp
 int integer = 10;
 std::cout << "Integer:" << integer << std::endl;
 
@@ -108,7 +108,7 @@ std::cout << "Big Integer: " << bigInteger << std::endl;
 
 - Вещественные типы (Floating-point types):
 
-```sh
+```cpp
 float floatingPoint = 3.14f;
 std::cout << "Floating Point: " << floatingPoint << std::endl;
 
@@ -118,35 +118,35 @@ std::cout << "Double Precision: " << doublePrecision << std::endl;
 
 - Символьный тип (Character type):
 
-```sh
+```cpp
 char character = 'A';
 std::cout << "Character: " << character << std::endl;
 ```
 
 - Строковый тип (String type):
 
-```sh
+```cpp
 std::string string = "Hello, World!";
 std::cout << "String: " << string << std::endl;
 ```
 
 - Логический тип (Boolean type):
 
-```sh
+```cpp
 bool boolean = true;
 std::cout << "Boolean: " << std::boolalpha << boolean << std::endl;
 ```
 
 - Указатель (Pointer type):
 
-```sh
+```cpp
 int* pointer = nullptr;
 std::cout << "Pointer: " << pointer << std::endl;
 ```
 
 - Массив (Array type):
 
-```sh
+```cpp
 int array[] = {1, 2, 3, 4, 5};
 std::cout << "Array: ";
 for (int i = 0; i < sizeof(array) / sizeof(int); ++i) {
@@ -173,7 +173,7 @@ std::cout << std::endl;
 
 Code : 
 
-```sh
+```cpp
 #include <iostream>
 
 int main() {
@@ -216,7 +216,7 @@ int main() {
 
 Вывод в консоли:
 
-```sh
+```cpp
 Сумма: 15
 Разность: 5
 Произведение: 50
