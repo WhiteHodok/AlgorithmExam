@@ -55,7 +55,7 @@ int findMaxElement(const int* arr, int size) {
 ```
 
 - Функция replaceElements заменяет элементы матрицы, сумма индексов которых кратна n, на максимальное значение в первой строке:
-```sh
+```cpp
 void replaceElements(int** matrix, int size, int n, int maxVal) {
     for (int i = 0; i < size; i++) {
         for (int j = 0; j < size; j++) {
