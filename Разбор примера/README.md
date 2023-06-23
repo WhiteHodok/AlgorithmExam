@@ -89,14 +89,15 @@ void deleteMatrix(int**& matrix, int size) {
 \```
 
 4. Основная программа :
-\```sh
+
+```sh
 int main() {
     int size;
     int n;
 
     std::cout << "Введите размерность матрицы: ";
     std::cin >> size;
-   \```
+   ```
    
 
 ## Код всей программы представлен в example.cpp
