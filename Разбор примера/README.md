@@ -53,3 +53,49 @@ int findMaxElement(const int* arr, int size) {
     return maxVal;
 }
 ```
+
+- Функция replaceElements заменяет элементы матрицы, сумма индексов которых кратна n, на максимальное значение в первой строке:
+```sh
+void replaceElements(int** matrix, int size, int n, int maxVal) {
+    for (int i = 0; i < size; i++) {
+        for (int j = 0; j < size; j++) {
+            if ((i + j) % n == 0) {
+                matrix[i][j] = maxVal;
+            }
+        }
+    }
+}
+```
+
+- Функция printMatrix выводит матрицу и максимальное значение на экран:
+\```cpp
+void printMatrix(int** matrix, int size) {
+    std::cout << "Исходная матрица:\n";
+    for (int i = 0; i < size; i++) {
+        for (int j = 0; j < size; j++) {
+            std::cout << matrix[i][j] << " ";
+        }
+        std::cout << "\n";
+    }
+}
+
+void deleteMatrix(int**& matrix, int size) {
+    for (int i = 0; i < size; i++) {
+        delete[] matrix[i];
+    }
+    delete[] matrix;
+    matrix = nullptr;
+}
+\```
+
+4. Основная программа :
+\```cpp
+int main() {
+    int size;
+    int n;
+
+    std::cout << "Введите размерность матрицы: ";
+    std::cin >> size;
+   \```
+   
+
