@@ -68,7 +68,7 @@ void replaceElements(int** matrix, int size, int n, int maxVal) {
 ```
 
 - Функция printMatrix выводит матрицу и максимальное значение на экран:
-\```cpp
+```cpp
 void printMatrix(int** matrix, int size) {
     std::cout << "Исходная матрица:\n";
     for (int i = 0; i < size; i++) {
@@ -86,11 +86,11 @@ void deleteMatrix(int**& matrix, int size) {
     delete[] matrix;
     matrix = nullptr;
 }
-\```
+```
 
 4. Основная программа :
 
-```sh
+```cpp
 int main() {
     int size;
     int n;
