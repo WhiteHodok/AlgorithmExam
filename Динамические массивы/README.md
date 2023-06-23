@@ -58,4 +58,33 @@ void main() {
     }
 ```
 
+7. Как выглядит сортировка при работе с <vector>? Да очень просто :
+```cpp
+// NEW SORT
+    vector<int> flat_arr; // new array for sort rows , создаём новый массив для отсортированных значений
+
+// пушим значения
+    for (int i = 0; i < rows; i++) {
+        for (int j = 0; j < cols; j++) {
+            flat_arr.push_back(arr[i][j]);
+        }
+    }
+
+// sorting 1d vector flat_arr
+    sort(flat_arr.begin(), flat_arr.end(), compare);
+
+    // обновляем значения в нашем массиве 
+    int index = 0;
+    for (int i = 0; i < rows; i++) {
+        for (int j = 0; j < cols; j++) {
+            arr[i][j] = flat_arr[index++];
+        }
+    }
+```
+- Что такое push_back и как оно работает (https://learn.microsoft.com/ru-ru/cpp/standard-library/vector-class?view=msvc-160#push_back)
+
+![image](https://github.com/WhiteHodok/AlgorithmExam/assets/39564937/e6883cf3-cbfd-4162-9ad7-bc64e0c1b0d8)
+
+
+8. Выводим как обычный массив (тут сами справитесь)
 
